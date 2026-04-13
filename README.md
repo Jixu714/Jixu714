@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Jixu714
-- 👀 I’m interested in getting better at computer enginnering and meeting great people with whom I can grow as a developer.
-- 🌱 C++, Java & html.
-- 💞️ I’m looking to collaborate on as many projects as I can.
-- 📫 How to reach me jizu3210@gmail.com/
+# Jesus Hernandez
 
-<!---
-Jixu714/Jixu714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Software Engineer | Python, FastAPI, PostgreSQL, Docker
+
+Building backend services with REST APIs, PostgreSQL persistence, 
+CI/CD pipelines, and Docker-based deployment.
+
+Featured project: [Event-Driven Baseball Backend API](https://github.com/Jixu714/event-driven-baseball-backend) — 
+a FastAPI backend for ingesting baseball game events and computing 
+player statistics. PostgreSQL, Docker Compose, pytest, GitHub Actions. 
+Deployed on Railway.
+
+Open to backend engineering and solutions engineering roles in Austin, TX.
+
+📫 JesusM.Hernandez1@outlook.com | [LinkedIn](https://linkedin.com/in/jesus-hernandez14)
