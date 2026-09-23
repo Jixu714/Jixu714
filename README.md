@@ -1,15 +1,10 @@
-# Jesus Hernandez
+Backend Software Engineer | Python, FastAPI, PostgreSQL
 
-Backend Software Engineer | Python, FastAPI, PostgreSQL, Docker
+Computer Engineering grad building backend services — REST APIs, PostgreSQL, automated tests in CI, deployed to production.
 
-Building backend services with REST APIs, PostgreSQL persistence, 
-CI/CD pipelines, and Docker-based deployment.
+Featured: CRE Portfolio API · live docs
+A commercial real estate API for properties, leases, occupancy and revenue reporting, plus a natural-language endpoint backed by the Anthropic API. JWT auth, connection pooling, rate limiting on the LLM route, cache invalidated on write, and a pytest suite that runs against a real Postgres database in GitHub Actions.
 
-Featured project: [Event-Driven Baseball Backend API](https://github.com/Jixu714/event-driven-baseball-backend) — 
-a FastAPI backend for ingesting baseball game events and computing 
-player statistics. PostgreSQL, Docker Compose, pytest, GitHub Actions. 
-Deployed on Railway.
+Also: Baseball Stats API — records game events and derives player stats. FastAPI, PostgreSQL, pytest, GitHub Actions.
 
-Open to backend engineering and solutions engineering roles in Austin, TX.
-
-📫 JesusM.Hernandez1@outlook.com | [LinkedIn](https://linkedin.com/in/jesus-hernandez14)
+Based in Puerto Rico. Open to backend roles in Puerto Rico and Austin, TX.
